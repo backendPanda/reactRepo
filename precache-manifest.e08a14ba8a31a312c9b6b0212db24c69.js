@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52cf088d0edc59373616a10a6e22dbe7",
+    "revision": "ea7b27fe4322c228d12c066ba291d3de",
     "url": "/backendPanda/reactRepo/index.html"
   },
   {
-    "revision": "00e2d541f2d27c535d90",
-    "url": "/backendPanda/reactRepo/static/css/main.aafba902.chunk.css"
+    "revision": "d37d63a309aab549ecb7",
+    "url": "/backendPanda/reactRepo/static/css/main.2bd6729d.chunk.css"
   },
   {
     "revision": "e6859ed0e5f7c670f602",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/backendPanda/reactRepo/static/js/2.c4d9963d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00e2d541f2d27c535d90",
+    "revision": "d37d63a309aab549ecb7",
     "url": "/backendPanda/reactRepo/static/js/main.57a23db5.chunk.js"
   },
   {

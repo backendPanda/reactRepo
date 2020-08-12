@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/backendPanda/reactRepo/precache-manifest.dfeda82fb441bd18f3d8c9662e39f75e.js"
+  "/backendPanda/reactRepo/precache-manifest.e08a14ba8a31a312c9b6b0212db24c69.js"
 );
 
 self.addEventListener('message', (event) => {
