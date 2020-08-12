@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27d8eedbb5f07371dbbf3c98c4302608",
+    "revision": "95c823c1861468c14aad7038a8345832",
     "url": "/backendPanda/reactRepo/index.html"
   },
   {
