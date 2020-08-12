@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/backendPanda/reactRepo/static/css/main.2bd6729d.chunk.css",
-    "main.js": "/backendPanda/reactRepo/static/js/main.57a23db5.chunk.js",
-    "main.js.map": "/backendPanda/reactRepo/static/js/main.57a23db5.chunk.js.map",
-    "runtime-main.js": "/backendPanda/reactRepo/static/js/runtime-main.bfcc14fa.js",
-    "runtime-main.js.map": "/backendPanda/reactRepo/static/js/runtime-main.bfcc14fa.js.map",
-    "static/js/2.c4d9963d.chunk.js": "/backendPanda/reactRepo/static/js/2.c4d9963d.chunk.js",
-    "static/js/2.c4d9963d.chunk.js.map": "/backendPanda/reactRepo/static/js/2.c4d9963d.chunk.js.map",
-    "index.html": "/backendPanda/reactRepo/index.html",
-    "precache-manifest.d732a8ec9f6f5179fc1e434616d4af4e.js": "/backendPanda/reactRepo/precache-manifest.d732a8ec9f6f5179fc1e434616d4af4e.js",
-    "service-worker.js": "/backendPanda/reactRepo/service-worker.js",
-    "static/css/main.2bd6729d.chunk.css.map": "/backendPanda/reactRepo/static/css/main.2bd6729d.chunk.css.map",
-    "static/js/2.c4d9963d.chunk.js.LICENSE.txt": "/backendPanda/reactRepo/static/js/2.c4d9963d.chunk.js.LICENSE.txt",
-    "static/media/flower-3140492_1920.jpg": "/backendPanda/reactRepo/static/media/flower-3140492_1920.8da08b2c.jpg",
-    "static/media/tree-736885_1280.jpg": "/backendPanda/reactRepo/static/media/tree-736885_1280.09e39702.jpg"
+    "main.css": "/reactRepo/static/css/main.2bd6729d.chunk.css",
+    "main.js": "/reactRepo/static/js/main.57a23db5.chunk.js",
+    "main.js.map": "/reactRepo/static/js/main.57a23db5.chunk.js.map",
+    "runtime-main.js": "/reactRepo/static/js/runtime-main.86bbe76b.js",
+    "runtime-main.js.map": "/reactRepo/static/js/runtime-main.86bbe76b.js.map",
+    "static/js/2.c4d9963d.chunk.js": "/reactRepo/static/js/2.c4d9963d.chunk.js",
+    "static/js/2.c4d9963d.chunk.js.map": "/reactRepo/static/js/2.c4d9963d.chunk.js.map",
+    "index.html": "/reactRepo/index.html",
+    "precache-manifest.e7bd2c25a785a7d5e27cff6d4d0f609a.js": "/reactRepo/precache-manifest.e7bd2c25a785a7d5e27cff6d4d0f609a.js",
+    "service-worker.js": "/reactRepo/service-worker.js",
+    "static/css/main.2bd6729d.chunk.css.map": "/reactRepo/static/css/main.2bd6729d.chunk.css.map",
+    "static/js/2.c4d9963d.chunk.js.LICENSE.txt": "/reactRepo/static/js/2.c4d9963d.chunk.js.LICENSE.txt",
+    "static/media/flower-3140492_1920.jpg": "/reactRepo/static/media/flower-3140492_1920.8da08b2c.jpg",
+    "static/media/tree-736885_1280.jpg": "/reactRepo/static/media/tree-736885_1280.09e39702.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bfcc14fa.js",
+    "static/js/runtime-main.86bbe76b.js",
     "static/js/2.c4d9963d.chunk.js",
     "static/css/main.2bd6729d.chunk.css",
     "static/js/main.57a23db5.chunk.js"
